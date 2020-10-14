@@ -1,0 +1,32 @@
+# Purpose
+
+Purpose of the project to learn the python language with use case:
+
+## Installation
+
+pip install django
+
+python manage.py runserver <PORT>
+OR
+python manage.py runserver
+
+## Usage
+
+Dabase - SQLite
+Language - Python
+Framework - Django
+
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+
+No Copyright free to use
+
+Start the application opening the link shown in your terminal on a browser.
+
+Created by - Chatrughan Prasad
